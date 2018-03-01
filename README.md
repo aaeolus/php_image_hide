@@ -1,1 +1,4 @@
-"# php_image_hide" 
+简单的图片隐写
+
+encrypt.php把信息隐藏到lsb里
+decrypt.php把信息提取出来
